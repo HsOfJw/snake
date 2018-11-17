@@ -21,6 +21,10 @@ cc.Class({
         var allAppleGID = Game.MapUtil.GetAppleGID();
         for(var i = 0;i < allAppleGID.length; i ++){
             var gid = allAppleGID[i];
+			
+			
+			
+			
             if(gid > 0){
                 var pos = Game.MapUtil.ConvertGIDToPos(gid);
                 var appleNode = new AppleNode("AppleNode");
