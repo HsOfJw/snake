@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "confim",
+    "texture": "998f2dd8-2920-4666-9013-db97f4c60c97",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      186,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      186,
+      62
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "StartGameBtn",
+    "texture": "5ab29e98-e049-4fa0-9e9f-7187a1ca39c9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      364,
+      126
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      364,
+      126
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chonghzi",
+    "texture": "46d29f53-f357-4fbe-b3d3-a12db00e3b5b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      414,
+      104
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      414,
+      104
+    ]
+  }
+}

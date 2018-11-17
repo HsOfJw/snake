@@ -1,0 +1,46 @@
+{
+  "packedTextures": [
+    {
+      "path": "E:\\Work\\SnakesMakeRounds\\temp\\TexturePacker\\texture\\AutoAtlas.pac/AutoAtlas-1.png",
+      "name": "AutoAtlas-1.png",
+      "size": "1024x1024"
+    },
+    {
+      "path": "E:\\Work\\SnakesMakeRounds\\temp\\TexturePacker\\texture\\AutoAtlas.pac/AutoAtlas-2.png",
+      "name": "AutoAtlas-2.png",
+      "size": "1024x1024"
+    },
+    {
+      "path": "E:\\Work\\SnakesMakeRounds\\temp\\TexturePacker\\texture\\AutoAtlas.pac/AutoAtlas-3.png",
+      "name": "AutoAtlas-3.png",
+      "size": "1024x1024"
+    },
+    {
+      "path": "E:\\Work\\SnakesMakeRounds\\temp\\TexturePacker\\texture\\AutoAtlas.pac/AutoAtlas-4.png",
+      "name": "AutoAtlas-4.png",
+      "size": "1024x1024"
+    }
+  ],
+  "unpackedTextures": [
+    {
+      "path": "E:/Work/SnakesMakeRounds/assets/texture/bg.png",
+      "name": "bg.png",
+      "size": "1628x754"
+    },
+    {
+      "path": "E:/Work/SnakesMakeRounds/assets/texture/loadingScene/loadingBg.png",
+      "name": "loadingBg.png",
+      "size": "1628x754"
+    },
+    {
+      "path": "E:/Work/SnakesMakeRounds/assets/texture/selectScene/bg.png",
+      "name": "bg.png",
+      "size": "1628x754"
+    },
+    {
+      "path": "E:/Work/SnakesMakeRounds/assets/texture/startScene/mainBg.png",
+      "name": "mainBg.png",
+      "size": "1628x754"
+    }
+  ]
+}

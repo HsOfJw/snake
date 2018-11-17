@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "c6c513e5-09f9-4931-bca6-0ba2a90daba0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "chaik": {
+      "ver": "1.0.3",
+      "uuid": "90662bf5-6817-4ffb-95c1-f1f99a1b8538",
+      "rawTextureUuid": "c6c513e5-09f9-4931-bca6-0ba2a90daba0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 148,
+      "height": 184,
+      "rawWidth": 148,
+      "rawHeight": 184,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

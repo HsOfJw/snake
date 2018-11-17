@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chaik",
+    "texture": "c6c513e5-09f9-4931-bca6-0ba2a90daba0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      148,
+      184
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      148,
+      184
+    ]
+  }
+}

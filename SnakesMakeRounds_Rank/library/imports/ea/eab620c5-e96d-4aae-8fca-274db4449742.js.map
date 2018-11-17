@@ -1,0 +1,1 @@
+{"version":3,"sources":["..\\..\\..\\..\\assets\\scripts/assets\\scripts\\GlobalVar.js"],"names":["window","GlobalVar","curLevel"],"mappings":";;;;;;AAAAA,OAAOC,SAAP,GAAmB;AACfC,cAAW;AADI,CAAnB","file":"GlobalVar.js","sourceRoot":"..\\..\\..\\..\\assets\\scripts","sourcesContent":["window.GlobalVar = {\r\n    curLevel : 1,\r\n};"]}

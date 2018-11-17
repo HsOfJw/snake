@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.TiledMapAsset",
+  "_name": "level_21",
+  "_objFlags": 0,
+  "_native": "",
+  "tmxXmlStr": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<map version=\"1.0\" orientation=\"orthogonal\" renderorder=\"right-down\" width=\"26\" height=\"15\" tilewidth=\"52\" tileheight=\"52\">\n <tileset firstgid=\"1\" name=\"road\" tilewidth=\"52\" tileheight=\"67\">\n  <image source=\"road.png\" width=\"364\" height=\"67\"/>\n </tileset>\n <layer name=\"road_1\" width=\"26\" height=\"15\">\n  <data encoding=\"base64\" compression=\"zlib\">\n   eJxjYBgFo2DkAUYgZgJiZiBmAWJWIGaDirEPoLtGwSgYDAAAYcwAHw==\n  </data>\n </layer>\n <objectgroup name=\"objLayer\">\n  <object name=\"ci\" x=\"600\" y=\"334\" visible=\"0\"/>\n  <object name=\"apple\" x=\"596\" y=\"236\" visible=\"0\"/>\n  <object name=\"startPos_1\" x=\"438\" y=\"336\" visible=\"0\"/>\n  <object name=\"door\" x=\"806\" y=\"334\" visible=\"0\"/>\n  <object name=\"startPos_2\" x=\"388\" y=\"330\" visible=\"0\"/>\n  <object name=\"startPos_3\" x=\"388\" y=\"388\" visible=\"0\"/>\n </objectgroup>\n</map>\n",
+  "textures": [
+    {
+      "__uuid__": "9ca0ab94-e11e-4585-8f8f-5657a5674ca4"
+    }
+  ],
+  "textureNames": [
+    "road.png"
+  ],
+  "tsxFiles": [],
+  "tsxFileNames": []
+}

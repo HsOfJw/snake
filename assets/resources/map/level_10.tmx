@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="26" height="15" tilewidth="52" tileheight="52">
+ <tileset firstgid="1" name="road" tilewidth="52" tileheight="67">
+  <image source="road.png" width="364" height="67"/>
+ </tileset>
+ <tileset firstgid="8" name="road_2" tilewidth="52" tileheight="67">
+  <image source="road_2.png" width="52" height="67"/>
+ </tileset>
+ <layer name="road_5" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjALiASMQsyOxR8HwAwAW9AAK
+  </data>
+ </layer>
+ <layer name="road_4" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUDAfAiMZmgmL2gXHOKBjCAAAi+AAO
+  </data>
+ </layer>
+ <layer name="road_11" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUDATgGGgHjIJRgAMAABr4AAk=
+  </data>
+ </layer>
+ <layer name="road_3" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AU0BIwDrQDRsEoIBEAAAjMAAI=
+  </data>
+ </layer>
+ <layer name="road_10" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUIAOOgXbAKBgFAwwAHjgACQ==
+  </data>
+ </layer>
+ <layer name="road_2" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2BkAkYc7FEwCkY6AAAMRAAD
+  </data>
+ </layer>
+ <layer name="road_9" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2BoAI6BdsAoGAUjBAAAIXgACQ==
+  </data>
+ </layer>
+ <layer name="road_1" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2DwAEYgZgJidiQ+O27lo2AUjAIaAABEzAAT
+  </data>
+ </layer>
+ <layer name="road_6" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo4B0wAjE7APtiFEwCkYBTQAAJPwACQ==
+  </data>
+ </layer>
+ <layer name="road_7" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFwwkwAjH7QDtiFIyCUTCkAQAoPAAJ
+  </data>
+ </layer>
+ <layer name="road_8" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgF9ACMQMw+0I4YBaNgFIwCIgAAK3wACQ==
+  </data>
+ </layer>
+ <objectgroup name="objLayer">
+  <object name="startPos_1" x="544" y="282" visible="0"/>
+  <object name="apple" x="600" y="492" visible="0"/>
+  <object name="door" x="808" y="278" visible="0"/>
+  <object name="startPos_2" x="492" y="284" visible="0"/>
+  <object name="startPos_3" x="437.333" y="285.333" visible="0"/>
+ </objectgroup>
+</map>

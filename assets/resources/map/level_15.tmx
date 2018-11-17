@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="26" height="15" tilewidth="52" tileheight="52">
+ <tileset firstgid="1" name="road" tilewidth="52" tileheight="67">
+  <image source="road.png" width="364" height="67"/>
+ </tileset>
+ <tileset firstgid="8" name="road_2" tilewidth="52" tileheight="67">
+  <image source="road_2.png" width="52" height="67"/>
+ </tileset>
+ <layer name="road_1" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjALSACMQMwExMxCzADHrwDpnFFAZAAAhmAAQ
+  </data>
+ </layer>
+ <layer name="road_2" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2BwAo6BdgAVAQcaPQpGAQwMxjQBAFFYACE=
+  </data>
+ </layer>
+ <objectgroup name="objLayer">
+  <object name="apple" x="598" y="436" visible="0"/>
+  <object name="startPos_1" x="550" y="486" visible="0"/>
+  <object name="door" x="600" y="598" visible="0"/>
+  <object name="stone" x="594" y="386" visible="0"/>
+  <object name="startPos_2" x="494" y="490" visible="0"/>
+  <object name="startPos_3" x="494" y="542" visible="0"/>
+ </objectgroup>
+</map>

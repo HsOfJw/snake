@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "clickme",
+    "texture": "3e6bf42d-6841-4b82-81e7-5ba5a229c856",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      229,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      229,
+      29
+    ]
+  }
+}

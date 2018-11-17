@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="26" height="15" tilewidth="52" tileheight="52">
+ <tileset firstgid="1" name="road" tilewidth="52" tileheight="67">
+  <image source="road.png" width="364" height="67"/>
+ </tileset>
+ <tileset firstgid="8" name="road_2" tilewidth="52" tileheight="67">
+  <image source="road_2.png" width="52" height="67"/>
+ </tileset>
+ <layer name="road_8" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIKRDRiBmAmI2QfaIYMEAAAQeAAL
+  </data>
+ </layer>
+ <layer name="road_9" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjILBCTgG2gEjFAAAEdgACQ==
+  </data>
+ </layer>
+ <layer name="road_1" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AU0AowAjETELMPgL30tnMUDB8AADLsABM=
+  </data>
+ </layer>
+ <layer name="road_2" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AU0BMwDrQDRsEoIAAACLwAAg==
+  </data>
+ </layer>
+ <layer name="road_3" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUgADjQDtgFIyCQQIACSQAAg==
+  </data>
+ </layer>
+ <layer name="road_4" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2BwA0YgZgJi9oF2yCgYBSMEAAAoYAAL
+  </data>
+ </layer>
+ <layer name="road_5" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo4AywDjQDhgFo2AUUBUAAAnsAAI=
+  </data>
+ </layer>
+ <layer name="road_6" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFwxUwDrQDRsEoGAVDEgAAClQAAg==
+  </data>
+ </layer>
+ <layer name="road_7" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFtAaMQMwCxMxAzATE7APrnFEwCkbBKMALAFVcABI=
+  </data>
+ </layer>
+ <objectgroup name="objLayer">
+  <object name="stone_1" x="444" y="386" visible="0"/>
+  <object name="startPos_1" x="440" y="344" visible="0"/>
+  <object name="apple" x="650" y="336" visible="0"/>
+  <object name="stone_2" x="700" y="278" visible="0"/>
+  <object name="door" x="862" y="548" visible="0"/>
+  <object name="startPos_2" x="390" y="340" visible="0"/>
+  <object name="startPos_3" x="390" y="394" visible="0"/>
+ </objectgroup>
+</map>

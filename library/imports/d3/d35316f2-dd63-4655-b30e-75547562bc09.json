@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yongshi",
+    "texture": "13a6cc70-d9e0-4ab2-8ad2-25096f33c611",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      40,
+      21
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      40,
+      21
+    ]
+  }
+}

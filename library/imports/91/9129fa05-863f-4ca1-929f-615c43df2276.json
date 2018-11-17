@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huangseshuzi_0",
+    "texture": "6c979d5c-a71b-4ba3-8db9-6257032165db",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      242,
+      71
+    ],
+    "offset": [
+      -7,
+      92.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ]
+  }
+}

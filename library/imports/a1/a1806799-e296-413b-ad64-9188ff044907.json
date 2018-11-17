@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.TiledMapAsset",
+  "_name": "level_14",
+  "_objFlags": 0,
+  "_native": "",
+  "tmxXmlStr": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<map version=\"1.0\" orientation=\"orthogonal\" renderorder=\"right-down\" width=\"26\" height=\"15\" tilewidth=\"52\" tileheight=\"52\">\n <tileset firstgid=\"1\" name=\"road\" tilewidth=\"52\" tileheight=\"67\">\n  <image source=\"road.png\" width=\"364\" height=\"67\"/>\n </tileset>\n <tileset firstgid=\"8\" name=\"road_2\" tilewidth=\"52\" tileheight=\"67\">\n  <image source=\"road_2.png\" width=\"52\" height=\"67\"/>\n </tileset>\n <layer name=\"road_6\" width=\"26\" height=\"15\">\n  <data encoding=\"base64\" compression=\"zlib\">\n   eJxjYBgFo2AUDDfACMRMQMw+0A4ZBUMSAAAcWAAL\n  </data>\n </layer>\n <layer name=\"road_9\" width=\"26\" height=\"15\">\n  <data encoding=\"base64\" compression=\"zlib\">\n   eJxjYBgFo2AU0AtwDLQDRsEoIAIAABtYAAk=\n  </data>\n </layer>\n <layer name=\"road_5\" width=\"26\" height=\"15\">\n  <data encoding=\"base64\" compression=\"zlib\">\n   eJxjYBgFo2AU0BswAjETELMPtENGwSjAAgAgGAAL\n  </data>\n </layer>\n <layer name=\"road_4\" width=\"26\" height=\"15\">\n  <data encoding=\"base64\" compression=\"zlib\">\n   eJxjYBgFo2AUcBDgj4JRMJIAADaYABE=\n  </data>\n </layer>\n <layer name=\"road_3\" width=\"26\" height=\"15\">\n  <data encoding=\"base64\" compression=\"zlib\">\n   eJxjYBgFo2DwAg4C/FEwCkYB9QEAPRgAEQ==\n  </data>\n </layer>\n <layer name=\"road_2\" width=\"26\" height=\"15\">\n  <data encoding=\"base64\" compression=\"zlib\">\n   eJxjYBgFo4B0wEGAPwpGwSgYugAAQ5gAEQ==\n  </data>\n </layer>\n <layer name=\"road_1\" width=\"26\" height=\"15\">\n  <data encoding=\"base64\" compression=\"zlib\">\n   eJxjYBgFQx0wAjETEDMDMTsWOXSxUTAKRsEowAcAX4wAFg==\n  </data>\n </layer>\n <layer name=\"road_8\" width=\"26\" height=\"15\">\n  <data encoding=\"base64\" compression=\"zlib\">\n   eJxjYBgFo4B8wDHQDhgFo2AUUB0AACTYAAk=\n  </data>\n </layer>\n <layer name=\"road_7\" width=\"26\" height=\"15\">\n  <data encoding=\"base64\" compression=\"zlib\">\n   eJxjYBgFwxFwDLQDRsEoGAVDFgAAKBgACQ==\n  </data>\n </layer>\n <objectgroup name=\"objLayer\">\n  <object name=\"startPos_1\" x=\"598\" y=\"176\" visible=\"0\"/>\n  <object name=\"stone\" x=\"752\" y=\"336\" visible=\"0\"/>\n  <object name=\"apple\" x=\"754\" y=\"382\" visible=\"0\"/>\n  <object name=\"door\" x=\"904\" y=\"286\" visible=\"0\"/>\n  <object name=\"startPos_2\" x=\"546\" y=\"182\" visible=\"0\"/>\n  <object name=\"startPos_3\" x=\"498\" y=\"182\" visible=\"0\"/>\n </objectgroup>\n</map>\n",
+  "textures": [
+    {
+      "__uuid__": "9ca0ab94-e11e-4585-8f8f-5657a5674ca4"
+    },
+    {
+      "__uuid__": "2e3fdd55-1cb0-4ca4-ab5c-b3f236ff7873"
+    }
+  ],
+  "textureNames": [
+    "road.png",
+    "road_2.png"
+  ],
+  "tsxFiles": [],
+  "tsxFileNames": []
+}

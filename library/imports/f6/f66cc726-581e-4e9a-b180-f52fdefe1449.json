@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "guank",
+    "texture": "58560412-d009-4338-8a73-dd8f91275f71",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      186,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      186,
+      62
+    ]
+  }
+}

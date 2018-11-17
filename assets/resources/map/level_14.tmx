@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="26" height="15" tilewidth="52" tileheight="52">
+ <tileset firstgid="1" name="road" tilewidth="52" tileheight="67">
+  <image source="road.png" width="364" height="67"/>
+ </tileset>
+ <tileset firstgid="8" name="road_2" tilewidth="52" tileheight="67">
+  <image source="road_2.png" width="52" height="67"/>
+ </tileset>
+ <layer name="road_6" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUDDfACMRMQMw+0A4ZBUMSAAAcWAAL
+  </data>
+ </layer>
+ <layer name="road_9" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AU0AtwDLQDRsEoIAIAABtYAAk=
+  </data>
+ </layer>
+ <layer name="road_5" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AU0BswAjETELMPtENGwSjAAgAgGAAL
+  </data>
+ </layer>
+ <layer name="road_4" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUcBDgj4JRMJIAADaYABE=
+  </data>
+ </layer>
+ <layer name="road_3" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2DwAg4C/FEwCkYB9QEAPRgAEQ==
+  </data>
+ </layer>
+ <layer name="road_2" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo4B0wEGAPwpGwSgYugAAQ5gAEQ==
+  </data>
+ </layer>
+ <layer name="road_1" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFQx0wAjETEDMDMTsWOXSxUTAKRsEowAcAX4wAFg==
+  </data>
+ </layer>
+ <layer name="road_8" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo4B8wDHQDhgFo2AUUB0AACTYAAk=
+  </data>
+ </layer>
+ <layer name="road_7" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFwxFwDLQDRsEoGAVDFgAAKBgACQ==
+  </data>
+ </layer>
+ <objectgroup name="objLayer">
+  <object name="startPos_1" x="598" y="176" visible="0"/>
+  <object name="stone" x="752" y="336" visible="0"/>
+  <object name="apple" x="754" y="382" visible="0"/>
+  <object name="door" x="904" y="286" visible="0"/>
+  <object name="startPos_2" x="546" y="182" visible="0"/>
+  <object name="startPos_3" x="498" y="182" visible="0"/>
+ </objectgroup>
+</map>

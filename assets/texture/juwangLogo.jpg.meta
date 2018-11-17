@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "c27b7aca-2a22-4274-aa2c-098a67566efd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "juwangLogo": {
+      "ver": "1.0.3",
+      "uuid": "24873af3-6ad2-47fe-818c-30eba12ca454",
+      "rawTextureUuid": "c27b7aca-2a22-4274-aa2c-098a67566efd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1624,
+      "height": 750,
+      "rawWidth": 1624,
+      "rawHeight": 750,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="26" height="15" tilewidth="52" tileheight="52">
+ <tileset firstgid="1" name="road" tilewidth="52" tileheight="67">
+  <image source="road.png" width="364" height="67"/>
+ </tileset>
+ <tileset firstgid="8" name="road_2" tilewidth="52" tileheight="67">
+  <image source="road_2.png" width="52" height="67"/>
+ </tileset>
+ <layer name="road_5" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjILBCRiBmAmI2QfaISMMAAAUiAAL
+  </data>
+ </layer>
+ <layer name="road_4" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjALiACMQMwEx+0A7ZBTQFAAAGOgACw==
+  </data>
+ </layer>
+ <layer name="road_7" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjALyAMdAO2AU0AQAABTYAAk=
+  </data>
+ </layer>
+ <layer name="road_3" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUDHXAQYA/CkYBKQAAKpgAEQ==
+  </data>
+ </layer>
+ <layer name="road_2" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AU0ApwEOCPglEwGAEAMRgAEQ==
+  </data>
+ </layer>
+ <layer name="road_1" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2BkAUYgZscixoSE0eVHwSgYSQAASVwAFw==
+  </data>
+ </layer>
+ <layer name="road_6" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFtAQcA+0AKgIONHoUEA9Gw2wUDCUAAH/YACE=
+  </data>
+ </layer>
+ <objectgroup name="objLayer">
+  <object name="stone" x="548" y="128" visible="0"/>
+  <object name="startPos_1" x="390" y="332" visible="0"/>
+  <object name="ci2_1" x="546" y="384" visible="0"/>
+  <object name="apple" x="546" y="490" visible="0"/>
+  <object name="ci2_2" x="752" y="336" visible="0"/>
+  <object name="door" x="860" y="332" visible="0"/>
+  <object name="startPos_2" x="338.667" y="337.333" visible="0"/>
+  <object name="startPos_3" x="336" y="390.667" visible="0"/>
+ </objectgroup>
+</map>

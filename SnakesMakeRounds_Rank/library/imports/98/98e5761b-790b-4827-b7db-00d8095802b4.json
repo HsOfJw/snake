@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "winlayer_cup_2",
+    "texture": "86cf7e38-9e7c-4092-86c0-c70e4c023e14",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      44,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      44,
+      39
+    ]
+  }
+}

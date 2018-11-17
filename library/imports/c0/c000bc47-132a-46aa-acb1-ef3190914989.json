@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "close_door",
+    "texture": "a26b1143-d7e4-4864-bf55-dd6ea310ba81",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      38,
+      52
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      38,
+      52
+    ]
+  }
+}

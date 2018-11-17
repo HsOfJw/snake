@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "qiuzhu",
+    "texture": "c163f03f-d428-41ab-85f1-25951f78f97d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      186,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      186,
+      62
+    ]
+  }
+}

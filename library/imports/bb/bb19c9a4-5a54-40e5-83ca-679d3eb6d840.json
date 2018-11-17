@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "toyou",
+    "texture": "1aff297a-cdf1-4c05-8ac7-21dc16a12ecc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      295,
+      82
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      295,
+      82
+    ]
+  }
+}

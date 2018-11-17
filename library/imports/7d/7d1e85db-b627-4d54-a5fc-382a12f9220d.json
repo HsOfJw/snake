@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.TiledMapAsset",
+  "_name": "level_7",
+  "_objFlags": 0,
+  "_native": "",
+  "tmxXmlStr": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<map version=\"1.0\" orientation=\"orthogonal\" renderorder=\"right-down\" width=\"26\" height=\"15\" tilewidth=\"52\" tileheight=\"52\">\n <tileset firstgid=\"1\" name=\"road\" tilewidth=\"52\" tileheight=\"67\">\n  <image source=\"road.png\" width=\"364\" height=\"67\"/>\n </tileset>\n <tileset firstgid=\"8\" name=\"road_2\" tilewidth=\"52\" tileheight=\"67\">\n  <image source=\"road_2.png\" width=\"52\" height=\"67\"/>\n </tileset>\n <layer name=\"road_1\" width=\"26\" height=\"15\">\n  <data encoding=\"base64\" compression=\"zlib\">\n   eJxjYBgFo2AUjALCgBGImYCYGYjZccihi4+CoQkAMIAAGA==\n  </data>\n </layer>\n <layer name=\"road_2\" width=\"26\" height=\"15\">\n  <data encoding=\"base64\" compression=\"zlib\">\n   eJxjYBgFo2AUDGXAONAOGAXDDgAACGwAAg==\n  </data>\n </layer>\n <layer name=\"road_3\" width=\"26\" height=\"15\">\n  <data encoding=\"base64\" compression=\"zlib\">\n   eJxjYBgFo2AU0AIw4mCPglEw2AEAC4QAAw==\n  </data>\n </layer>\n <layer name=\"road_4\" width=\"26\" height=\"15\">\n  <data encoding=\"base64\" compression=\"zlib\">\n   eJxjYBgFo2BkAUYgZoJi9gF2yygYBYMRAAArXAAN\n  </data>\n </layer>\n <layer name=\"road_7\" width=\"26\" height=\"15\">\n  <data encoding=\"base64\" compression=\"zlib\">\n   eJxjYBgFo2AUDHfAMdAOGAVDCgAAF5gACQ==\n  </data>\n </layer>\n <layer name=\"road_6\" width=\"26\" height=\"15\">\n  <data encoding=\"base64\" compression=\"zlib\">\n   eJxjYBgFo2AUDBTgGGgHjIJRgAUAABrYAAk=\n  </data>\n </layer>\n <layer name=\"road_5\" width=\"26\" height=\"15\">\n  <data encoding=\"base64\" compression=\"zlib\">\n   eJxjYBgFo2AUoAOOgXbAKBgFAwgAHhgACQ==\n  </data>\n </layer>\n <objectgroup name=\"objLayer\">\n  <object name=\"startPos_1\" x=\"490\" y=\"332\" visible=\"0\"/>\n  <object name=\"apple\" x=\"646\" y=\"490\" visible=\"0\"/>\n  <object name=\"door\" x=\"860\" y=\"334\" visible=\"0\"/>\n  <object name=\"startPos_2\" x=\"441.333\" y=\"338.667\" visible=\"0\"/>\n  <object name=\"startPos_3\" x=\"390.667\" y=\"338.667\" visible=\"0\"/>\n </objectgroup>\n</map>\n",
+  "textures": [
+    {
+      "__uuid__": "9ca0ab94-e11e-4585-8f8f-5657a5674ca4"
+    },
+    {
+      "__uuid__": "2e3fdd55-1cb0-4ca4-ab5c-b3f236ff7873"
+    }
+  ],
+  "textureNames": [
+    "road.png",
+    "road_2.png"
+  ],
+  "tsxFiles": [],
+  "tsxFileNames": []
+}

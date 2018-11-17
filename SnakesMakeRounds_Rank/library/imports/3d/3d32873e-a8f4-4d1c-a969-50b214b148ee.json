@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "JJCYBG",
+    "texture": "edb1b7b3-497d-48a6-af86-470864a2f93e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      212,
+      121
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      212,
+      121
+    ]
+  }
+}

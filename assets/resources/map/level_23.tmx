@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="26" height="15" tilewidth="52" tileheight="52">
+ <tileset firstgid="1" name="road" tilewidth="52" tileheight="67">
+  <image source="road.png" width="364" height="67"/>
+ </tileset>
+ <tileset firstgid="8" name="road_2" tilewidth="52" tileheight="67">
+  <image source="road_2.png" width="52" height="67"/>
+ </tileset>
+ <layer name="road_1" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjALiACMQMwExMxCzADErELNBxdgH0F2jgLoAAD08AB8=
+  </data>
+ </layer>
+ <layer name="road_7" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUDCfAMdAOGAVDHgAAGDgACQ==
+  </data>
+ </layer>
+ <layer name="road_2" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUDGfACMRMQMw+0A4ZBUMGAAAb4AAL
+  </data>
+ </layer>
+ <layer name="road_3" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUDATgQKNHwSgYLAAAL5gAEQ==
+  </data>
+ </layer>
+ <layer name="road_4" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUcOBgj4JRMBIBADa4ABE=
+  </data>
+ </layer>
+ <layer name="road_5" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2BoAUYgZh9oR4yCUTCMAQAhHAAJ
+  </data>
+ </layer>
+ <layer name="road_6" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2BoAI6BdsAoGAUjBAAAIXgACQ==
+  </data>
+ </layer>
+ <objectgroup name="objLayer">
+  <object name="startPos_1" x="442" y="492" visible="0"/>
+  <object name="ci2_1" x="546" y="492" visible="0"/>
+  <object name="ci2_2" x="652" y="490" visible="0"/>
+  <object name="apple" x="754" y="388" visible="0"/>
+  <object name="ci3" x="702" y="388" visible="0"/>
+  <object name="door" x="908" y="382" visible="0"/>
+  <object name="startPos_2" x="388" y="494" visible="0"/>
+  <object name="startPos_3" x="388" y="544" visible="0"/>
+ </objectgroup>
+</map>

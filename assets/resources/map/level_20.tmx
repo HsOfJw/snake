@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="26" height="15" tilewidth="52" tileheight="52">
+ <tileset firstgid="1" name="road" tilewidth="52" tileheight="67">
+  <image source="road.png" width="364" height="67"/>
+ </tileset>
+ <tileset firstgid="8" name="road_2" tilewidth="52" tileheight="67">
+  <image source="road_2.png" width="52" height="67"/>
+ </tileset>
+ <layer name="road_2" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIKRBxiBmAmI2QnI41MzXAEAHFQAFw==
+  </data>
+ </layer>
+ <layer name="road_1" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AU0BIwAjETEmYfWOcMGQALN2YgZgFiViBmYxgNP3oAAFMgACs=
+  </data>
+ </layer>
+ <layer name="road_7" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjILBAzhopHYUEA8AHPgAEQ==
+  </data>
+ </layer>
+ <layer name="road_3" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2BkA46BdsAwBKNhOrQBACy4ABE=
+  </data>
+ </layer>
+ <layer name="road_4" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2BwAo6BdsAwBKNhOgqIAQAzOAAR
+  </data>
+ </layer>
+ <layer name="road_5" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo4A0wDHQDhiGYDRMR8FgAgA5uAAR
+  </data>
+ </layer>
+ <layer name="road_6" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFwwVwDLQDRsEoGAXDAgAAKHgACQ==
+  </data>
+ </layer>
+ <objectgroup name="objLayer">
+  <object name="stone_1" x="494" y="384" visible="0"/>
+  <object name="stone_2" x="702" y="386" visible="0"/>
+  <object name="apple" x="444" y="494" visible="0"/>
+  <object name="startPos_1" x="652" y="540" visible="0"/>
+  <object name="door" x="958" y="380" visible="0"/>
+  <object name="startPos_2" x="600" y="544" visible="0"/>
+  <object name="startPos_3" x="544" y="546" visible="0"/>
+ </objectgroup>
+</map>

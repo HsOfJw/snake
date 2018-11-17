@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zuid",
+    "texture": "7e2b77a1-02b4-456c-92dd-f920c1fdf63b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      166,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      166,
+      41
+    ]
+  }
+}

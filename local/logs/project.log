@@ -1,0 +1,359 @@
+2018-11-17T01:24:38.471Z - normal: Load ~/.CocosCreator/settings.json
+2018-11-17T01:24:38.477Z - normal: checking language setting...
+2018-11-17T01:24:38.477Z - normal: Language: zh
+2018-11-17T01:24:39.987Z - success: protocol editor-framework registered
+2018-11-17T01:24:39.987Z - success: protocol app registered
+2018-11-17T01:24:39.987Z - success: protocol theme registered
+2018-11-17T01:24:39.987Z - success: protocol packages registered
+2018-11-17T01:24:39.987Z - success: protocol unpack registerred
+2018-11-17T01:24:39.987Z - success: protocol disable-commonjs registerred
+2018-11-17T01:24:40.178Z - normal: connected!
+2018-11-17T01:24:40.181Z - normal: Check project E:\Documents\svnProject\aa\SnakesMakeRounds
+2018-11-17T01:24:40.184Z - normal: Initializing project E:\Documents\svnProject\aa\SnakesMakeRounds
+2018-11-17T01:24:40.196Z - normal: Initializing Cocos2d
+2018-11-17T01:24:40.415Z - normal: Initializing Asset Database
+2018-11-17T01:24:40.452Z - success: protocol uuid registerred
+2018-11-17T01:24:40.452Z - success: protocol db registerred
+2018-11-17T01:24:40.452Z - success: protocol thumbnail registerred
+2018-11-17T01:24:40.452Z - normal: Loading editor/builtin packages
+2018-11-17T01:24:40.570Z - success: assets loaded
+2018-11-17T01:24:40.571Z - success: builder loaded
+2018-11-17T01:24:40.573Z - success: cocos-analytics loaded
+2018-11-17T01:24:40.576Z - success: console loaded
+2018-11-17T01:24:40.609Z - success: fb-instant-games loaded
+2018-11-17T01:24:40.613Z - success: hierarchy loaded
+2018-11-17T01:24:40.617Z - success: inspector loaded
+2018-11-17T01:24:40.618Z - success: keystore loaded
+2018-11-17T01:24:40.621Z - success: node-library loaded
+2018-11-17T01:24:40.623Z - success: package-asset loaded
+2018-11-17T01:24:40.624Z - success: preferences loaded
+2018-11-17T01:24:40.625Z - success: project-exporter loaded
+2018-11-17T01:24:40.639Z - success: project-importer loaded
+2018-11-17T01:24:40.645Z - success: project-settings loaded
+2018-11-17T01:24:40.647Z - success: ui-kit loaded
+2018-11-17T01:24:40.650Z - success: scene loaded
+2018-11-17T01:24:40.651Z - success: sprite-editor loaded
+2018-11-17T01:24:40.654Z - success: store loaded
+2018-11-17T01:24:40.658Z - success: timeline loaded
+2018-11-17T01:24:40.658Z - normal: Loading builtin packages
+2018-11-17T01:24:40.661Z - success: asset-db-debugger loaded
+2018-11-17T01:24:40.663Z - success: code-editor loaded
+2018-11-17T01:24:40.664Z - success: color-picker loaded
+2018-11-17T01:24:40.666Z - success: package-manager loaded
+2018-11-17T01:24:40.667Z - success: qqplay-adapter loaded
+2018-11-17T01:24:40.670Z - success: sdkbox loaded
+2018-11-17T01:24:40.674Z - success: tester loaded
+2018-11-17T01:24:40.676Z - success: ui-grid loaded
+2018-11-17T01:24:40.677Z - success: ui-kit-preview-extra loaded
+2018-11-17T01:24:40.679Z - success: ui-kit-preview loaded
+2018-11-17T01:24:40.681Z - success: ui-tree loaded
+2018-11-17T01:24:40.681Z - success: weapp-adapter loaded
+2018-11-17T01:24:41.674Z - normal: Loading packages
+2018-11-17T01:24:41.682Z - warn: Mount runtime resource failed, C:\Users\hs\.CocosCreator\packages\cc-inspector\plugin is not a valid folder.
+2018-11-17T01:24:41.683Z - success: cc-inspector loaded
+2018-11-17T01:24:41.683Z - normal: Watching packages
+2018-11-17T01:24:41.991Z - normal: Run Application
+2018-11-17T01:24:43.257Z - success: preview server running at http://localhost:7457
+2018-11-17T01:24:49.077Z - warn: Please change the definition of property 'beici_Sound' in class 'AudioManager'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    beici_Sound: cc.Texture2D,
+    // or:
+    beici_Sound: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    beici_Sound: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2018-11-17T01:24:49.078Z - warn: Please change the definition of property 'background_music' in class 'AudioManager'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    background_music: cc.Texture2D,
+    // or:
+    background_music: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    background_music: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2018-11-17T01:24:49.078Z - warn: Please change the definition of property 'daojishi_Sound' in class 'AudioManager'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    daojishi_Sound: cc.Texture2D,
+    // or:
+    daojishi_Sound: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    daojishi_Sound: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2018-11-17T01:24:49.078Z - warn: Please change the definition of property 'dirClick_Sound' in class 'AudioManager'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    dirClick_Sound: cc.Texture2D,
+    // or:
+    dirClick_Sound: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    dirClick_Sound: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2018-11-17T01:24:49.078Z - warn: Please change the definition of property 'eatApple_Sound' in class 'AudioManager'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    eatApple_Sound: cc.Texture2D,
+    // or:
+    eatApple_Sound: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    eatApple_Sound: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2018-11-17T01:24:49.078Z - warn: Please change the definition of property 'fail_Sound' in class 'AudioManager'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    fail_Sound: cc.Texture2D,
+    // or:
+    fail_Sound: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    fail_Sound: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2018-11-17T01:24:49.079Z - warn: Please change the definition of property 'win_Sound' in class 'AudioManager'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    win_Sound: cc.Texture2D,
+    // or:
+    win_Sound: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    win_Sound: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2018-11-17T01:24:49.079Z - warn: Please change the definition of property 'button_Sound' in class 'AudioManager'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    button_Sound: cc.Texture2D,
+    // or:
+    button_Sound: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    button_Sound: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2018-11-17T01:24:49.079Z - warn: Please change the definition of property 'pushStone_Sound' in class 'AudioManager'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    pushStone_Sound: cc.Texture2D,
+    // or:
+    pushStone_Sound: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    pushStone_Sound: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2018-11-17T01:24:49.079Z - warn: Please change the definition of property 'getMoney_Sound' in class 'AudioManager'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    getMoney_Sound: cc.Texture2D,
+    // or:
+    getMoney_Sound: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    getMoney_Sound: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2018-11-17T01:24:49.103Z - warn: Can not instantiate CCClass 'undefined' with arguments.
+2018-11-17T01:29:21.055Z - warn: Please change the definition of property 'beici_Sound' in class 'AudioManager'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    beici_Sound: cc.Texture2D,
+    // or:
+    beici_Sound: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    beici_Sound: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2018-11-17T01:29:21.057Z - warn: Please change the definition of property 'background_music' in class 'AudioManager'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    background_music: cc.Texture2D,
+    // or:
+    background_music: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    background_music: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2018-11-17T01:29:21.057Z - warn: Please change the definition of property 'daojishi_Sound' in class 'AudioManager'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    daojishi_Sound: cc.Texture2D,
+    // or:
+    daojishi_Sound: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    daojishi_Sound: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2018-11-17T01:29:21.057Z - warn: Please change the definition of property 'dirClick_Sound' in class 'AudioManager'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    dirClick_Sound: cc.Texture2D,
+    // or:
+    dirClick_Sound: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    dirClick_Sound: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2018-11-17T01:29:21.057Z - warn: Please change the definition of property 'eatApple_Sound' in class 'AudioManager'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    eatApple_Sound: cc.Texture2D,
+    // or:
+    eatApple_Sound: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    eatApple_Sound: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2018-11-17T01:29:21.057Z - warn: Please change the definition of property 'fail_Sound' in class 'AudioManager'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    fail_Sound: cc.Texture2D,
+    // or:
+    fail_Sound: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    fail_Sound: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2018-11-17T01:29:21.057Z - warn: Please change the definition of property 'win_Sound' in class 'AudioManager'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    win_Sound: cc.Texture2D,
+    // or:
+    win_Sound: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    win_Sound: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2018-11-17T01:29:21.058Z - warn: Please change the definition of property 'button_Sound' in class 'AudioManager'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    button_Sound: cc.Texture2D,
+    // or:
+    button_Sound: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    button_Sound: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2018-11-17T01:29:21.058Z - warn: Please change the definition of property 'pushStone_Sound' in class 'AudioManager'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    pushStone_Sound: cc.Texture2D,
+    // or:
+    pushStone_Sound: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    pushStone_Sound: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2018-11-17T01:29:21.058Z - warn: Please change the definition of property 'getMoney_Sound' in class 'AudioManager'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    getMoney_Sound: cc.Texture2D,
+    // or:
+    getMoney_Sound: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    getMoney_Sound: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2018-11-17T01:29:21.076Z - warn: Can not instantiate CCClass 'undefined' with arguments.
+2018-11-17T01:31:35.875Z - info: shutdown preview server
